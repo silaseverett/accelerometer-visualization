@@ -1,2 +1,2 @@
-# Viz
+# viz
 Visualization examples
